@@ -1,0 +1,38 @@
+.footer{
+    text-align: center;
+    padding-top: 235px;
+    background-color: #1E1E1E;
+    
+}
+.footer h2{
+    font-size: 48px;
+    font-weight: 800;
+    padding-bottom: 40px;
+    color: #F2F2F2;
+}
+
+.footer a{
+
+    /* margin: 10px; */
+    border-radius: 60px;
+    font-size: 16px;
+    background-color:#ffffff ;
+    color: #1E1E1E;
+    text-decoration: none;
+    padding: 15px;
+    
+}
+
+.icons{
+    background-color: #1E1E1E;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.icons i{
+    color: #F2F2F2;
+    padding: 10px;
+    font-size: 40px;
+    padding-top: 55px;
+    padding-bottom: 80px;
+}

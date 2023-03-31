@@ -1,0 +1,10 @@
+.image-details-container{
+    background-color: #f1f1f1;
+    width: 90%;
+}
+.slick-arrow,.slick-next  {
+    background-color: blue;
+    }
+    .slick-arrow, .slick-prev  {
+        background-color: blue;
+        }
